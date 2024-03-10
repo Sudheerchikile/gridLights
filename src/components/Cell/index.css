@@ -1,0 +1,12 @@
+.cell{
+    background-color: transparent;
+    border:1px solid rgb(44, 44, 44);
+    height: 0px;
+    padding-bottom: 100%;
+    
+
+
+}
+.cell-activated{
+    background-color: green;
+}
